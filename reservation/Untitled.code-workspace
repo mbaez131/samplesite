@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "reservation",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
